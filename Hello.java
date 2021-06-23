@@ -1,3 +1,4 @@
+// This code will print a message on the command line
 public class Hello {
 
     public static void main(String[] args) {
